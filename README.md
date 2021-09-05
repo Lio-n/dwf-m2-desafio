@@ -41,7 +41,7 @@ puede recibir las dos opciones. (ej: { search:{ tag:"action", title:"x" } } busc
 
 
         ````
-        ts-node index.ts add --id=4411 --title="Título de la nueva peli"       --tags=action --tags=classic
+        ts-node index.ts add --id=4411 --title="Título de la nueva peli" --tags=action --tags=classic
         ````
         ````
         ts-node index.ts get 4411
